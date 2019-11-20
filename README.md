@@ -1,1 +1,1 @@
-# CompArchFinalProject
+# Parallel BFS with CUDA
